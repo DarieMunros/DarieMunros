@@ -14,9 +14,9 @@ that “good intentions” will protect you if something goes wrong.**
 * Save all emails and written instructions.
 * Link all work accounts to recovery options you control when appropriate (personal accounts).
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
-* Keep copies of key communications, approvals, and decisions so there is always a clear record of what was asked of you and who authorized it.
-* Be aware that company machines may include monitoring tools. Understand what software is running so you know how your activity might be recorded.
-* Treat corporate environments with zero trust and protect your own records.
+* Keep copies of key chat logs and approvals so there is record of what was asked of you and who authorized it.
+* Be aware that company machines may include surveillance tools.
+* Treat corporate environments with zero trust and protect your own reputation.
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
 ## Trust but Verify
