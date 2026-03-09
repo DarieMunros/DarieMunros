@@ -17,6 +17,7 @@ that “good intentions” will protect you if something goes wrong.**
 * Keep copies of key communications, approvals, and decisions so there is always a clear record of what was asked of you and who authorized it.
 * Be aware that company machines may include monitoring tools. Understand what software is running so you know how your activity might be recorded.
 * Treat corporate environments with zero trust and protect your own records.
+* Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
 ## Trust but Verify
 
