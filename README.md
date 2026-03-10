@@ -17,6 +17,7 @@ that “good intentions” will protect you if something goes wrong.**
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
 * Keep copies of key chat logs and approvals so there is record of what was asked of you and who authorized it.
 * Be aware that company machines may include surveillance tools.
+* You will be told that everything is transparent, believe me there is nothing transparent, you did not sign documents for it.
 * Treat corporate environments with zero trust and protect your own reputation.
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
