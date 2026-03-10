@@ -14,7 +14,7 @@ that “good intentions” will protect you if something goes wrong.**
 * Save all emails and written instructions.
 * Link all work accounts to recovery options you control as they will remove your access when you are not needed.
 * Change your passwords if you typed any on the company machine and enable 2FA.
-* Generate Recovery Codes for all your accounts, so you can control access.
+* Generate recovery codes for all your accounts, so you can control access.
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
 * Keep copies of key chat logs and approvals so there is record of what was asked of you and who authorized it.
 * Be aware that company machines may include surveillance tools.
