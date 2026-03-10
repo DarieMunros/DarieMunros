@@ -1,6 +1,6 @@
 # Darie - Employee Leave - Due to Surveillance Software
 
-## Do not trust this company, save your work and emails every day and watch out for probation reviews, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong Un that does not value your time.
+## Do not trust this company, save your work and emails every day and watch out for probation reviews, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
 
 **When you work as a developer, remember that a company’s priorities are not the same as your own. 
 Organizations exist to protect their interests, their legal position, and their reputation - sometimes at the 
@@ -26,4 +26,4 @@ that “good intentions” will protect you if something goes wrong.**
 
 ### Always protect your integrity, your records and your access.
 
-### If you haven't done what I said above do it by the end of today, you'll thank me later.
+### If you haven't done what I said above, do it by the end of today, you'll thank me later.
