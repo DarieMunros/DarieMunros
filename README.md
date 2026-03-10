@@ -12,7 +12,7 @@ that your good intentions will protect you if something goes wrong.**
 ## Safety Measures while you Work for Corporations
 
 * Save all emails and written instructions.
-* Link all work accounts to recovery options you control as they will remove your access when you are not needed.
+* Link all work accounts to recovery options you control as they will remove your access when you are not needed anymore.
 * Change your passwords if you typed any on the company machine and enable 2FA.
 * Generate recovery codes for all your accounts, so you can control access.
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
