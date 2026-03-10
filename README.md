@@ -1,4 +1,4 @@
-# Darie-Dragos Mitoiu - Employee Leave - Due to Surveillance Software
+# Darie - Employee Leave - Due to Surveillance Software
 
 ## Do not trust this company, save your work and emails every day and watch out for probation reviews, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong Un that does not value your time.
 
