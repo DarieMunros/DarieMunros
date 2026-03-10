@@ -1,13 +1,13 @@
 # Darie - Employee Leave - Due to Surveillance Software
 
-## Do not trust this company, save your work and emails every day and watch out for probation reviews, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
+## Do not trust this company, save your work and emails every day and watch out for probation reviews and beyond, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
 
 **When you work as a developer, remember that a company’s priorities are not the same as your own. 
 Organizations exist to protect their interests, their legal position, and their reputation - sometimes at the 
 expense of the individuals who work for them. This doesn’t mean every company is malicious, but it does mean
 you should operate with professional caution. Treat your career and your reputation as assets
 that you personally manage. Document your work, keep clear records of decisions, and avoid assuming 
-that “good intentions” will protect you if something goes wrong.**
+that your good intentions will protect you if something goes wrong.**
 
 ## Safety Measures while you Work for Corporations
 
@@ -17,7 +17,7 @@ that “good intentions” will protect you if something goes wrong.**
 * Generate recovery codes for all your accounts, so you can control access.
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
 * Keep copies of key chat logs and approvals so there is record of what was asked of you and who authorized it.
-* Be aware that company machines may include surveillance tools.
+* Be aware that company machines may include surveillance software and hardware.
 * You will be told that everything is transparent, believe me there is nothing transparent, you did not sign documents for it.
 * Treat corporate environments with zero trust and protect your own reputation.
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
