@@ -13,6 +13,7 @@ that “good intentions” will protect you if something goes wrong.**
 
 * Save all emails and written instructions.
 * Link all work accounts to recovery options you control when appropriate (personal accounts).
+* Change your passwords if you typed any on the company machine.
 * Expect keyloggers or unusual surveillance software that will be used later to harm you when you leave the company.
 * Keep copies of key chat logs and approvals so there is record of what was asked of you and who authorized it.
 * Be aware that company machines may include surveillance tools.
