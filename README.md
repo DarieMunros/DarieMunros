@@ -19,6 +19,8 @@ that “good intentions” will protect you if something goes wrong.**
 * Treat corporate environments with zero trust and protect your own reputation.
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
-## Trust but Verify
+## No System is Safe
 
-### Always protect your integrity, your records, and your access - because when things go wrong, documentation and awareness are your only real safety net.
+### Always protect your integrity, your records and your access.
+
+### If you haven't done what I said above do it by the end of today, you'll thank me later.
