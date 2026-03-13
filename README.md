@@ -1,6 +1,6 @@
 # Darie - Employee Leave - Due to Surveillance Software
 
-## Do not trust this company, save your work and emails every day and watch out for probation reviews and beyond, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
+## Do not trust this company's IT Management, the Business Travel Consultants and their Management are one of the most lovely people you will ever meet, unfortunately, they will not protect you though, you need to save your work and emails every day and watch out for probation reviews and beyond, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
 
 **When you work as a developer, remember that a company’s priorities are not the same as your own. 
 Organizations exist to protect their interests, their legal position, and their reputation - sometimes at the 
