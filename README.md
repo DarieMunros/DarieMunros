@@ -1,5 +1,9 @@
 # Darie - Employee Leave - Due to Surveillance Software
 
+## If you are asked to develop surveillance software that appears unlawful, invasive, or intended to violate privacy rights, you should not proceed. contact the police.
+
+### Call Police: 112
+
 ![](Docs/1d6c489d68b76111347467014ccb63f3.jpg)
 
 ## Do not trust this company's IT Management, the Business Travel Consultants and their Management are one of the most lovely people you will ever meet, unfortunately, they will not protect you though, you need to save your work and emails every day and watch out for probation reviews and beyond, be ready to resign to save your reputation, you do not deserve to be micromanaged by some Kim Jong-un that does not value your time.
