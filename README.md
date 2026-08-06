@@ -15,6 +15,8 @@ you should operate with professional caution. Treat your career and your reputat
 that you personally manage. Document your work, keep clear records of decisions, and avoid assuming 
 that your good intentions will protect you if something goes wrong.**
 
+![](Docs/7c7a1aaa8e255032401e720fccfb7c6f.png)
+
 ## Safety Measures while you Work for Corporations
 
 * Save all emails and written instructions.
