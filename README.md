@@ -16,6 +16,7 @@ that you personally manage. Document your work, keep clear records of decisions,
 that your good intentions will protect you if something goes wrong.**
 
 ![](Docs/7c7a1aaa8e255032401e720fccfb7c6f.png)
+![](Docs/a9984621b60f886e23c74dfcf1f3e2fc.jpg)
 
 ## Safety Measures while you Work for Corporations
 
