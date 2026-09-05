@@ -1,8 +1,9 @@
 # Darie - Employee Leave - Due to Surveillance Software
 
-## If you are asked to develop surveillance software that appears unlawful, invasive, or intended to violate privacy rights, you should not proceed. contact the police.
+## If you are asked to develop surveillance software that appears unlawful, invasive, or intended to violate privacy rights, you should not proceed. Contact the Police.
 
-### Call Police: 112
+### Call Police: 112 or 101 for Local Police
+### Report Data Protection Breach: icocasework@ico.org.uk
 
 ![](Docs/1d6c489d68b76111347467014ccb63f3.jpg)
 
@@ -20,7 +21,10 @@ that your good intentions will protect you if something goes wrong.**
 
 ## Safety Measures while you Work for Corporations
 
-* Save all emails and written instructions.
+* Save all emails and written instructions every day.
+* Record audio every single day before you enter the office in case they will threaten you verbally.
+* Take pictures of processes that run on your machine, especially if your personal data is collected.
+* Do not be afraid to document them if they break the law, the price of not doing so, it will be higher for you.
 * Link all work accounts to recovery options you control as they will remove your access when you are not needed anymore.
 * Change your passwords if you typed any on the company machine and enable 2FA.
 * Generate recovery codes for all your accounts, so you can control access.
@@ -29,6 +33,7 @@ that your good intentions will protect you if something goes wrong.**
 * Be aware that company machines may include surveillance software and hardware.
 * You will be told that everything is transparent, believe me there is nothing transparent, you did not sign documents for it.
 * Treat corporate environments with zero trust and protect your own reputation.
+* Contact the police and your local information service about the ongoing data collection,
 * Do not trust them, listen to your instinct, deception will be used, at first they will behave like sheep and at the end like wolves.
 
 ## No System is Safe
