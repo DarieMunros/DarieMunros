@@ -11,13 +11,18 @@
 
 **When you work as a developer, remember that a company’s priorities are not the same as your own. 
 Organizations exist to protect their interests, their legal position, and their reputation - sometimes at the 
-expense of the individuals who work for them. This doesn’t mean every company is malicious, but it does mean
+expense of the individuals who work for them. This doesn't mean every company is malicious, but it does mean
 you should operate with professional caution. Treat your career and your reputation as assets
 that you personally manage. Document your work, keep clear records of decisions, and avoid assuming 
 that your good intentions will protect you if something goes wrong.**
 
 ![](Docs/7c7a1aaa8e255032401e720fccfb7c6f.png)
 ![](Docs/a9984621b60f886e23c74dfcf1f3e2fc.jpg)
+
+<p>
+<img src="Docs/08698622766083beb2b022fad480e985.jpg" width="45%">
+<img src="Docs/f6c9c641c550bd447bfa8473de34c962.jpg" width="45%">
+</p>
 
 ## Safety Measures while you Work for Corporations
 
