@@ -19,10 +19,8 @@ that your good intentions will protect you if something goes wrong.**
 ![](Docs/7c7a1aaa8e255032401e720fccfb7c6f.png)
 ![](Docs/a9984621b60f886e23c74dfcf1f3e2fc.jpg)
 
-<p>
-<img src="Docs/08698622766083beb2b022fad480e985.jpg" width="45%">
-<img src="Docs/f6c9c641c550bd447bfa8473de34c962.jpg" width="45%">
-</p>
+![](Docs/08698622766083beb2b022fad480e985.jpg)
+![](Docs/f6c9c641c550bd447bfa8473de34c962.jpg)
 
 ## Safety Measures while you Work for Corporations
 
